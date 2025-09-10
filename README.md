@@ -28,7 +28,7 @@ This project supports a **Demo Mode** so it works without an API key, and can be
 
 
 ## 🌐 Live Demo
-👉 [Click here to try the app](https://binarybar.github.io/Personal-Budget-Analyzer/) 
+👉 [Click here to try the app](https://binarybar.github.io/Weather-App/) 
 
  
 ---
@@ -58,4 +58,5 @@ Sushmoy (BinaryBar) 🚀
 
 
 🚀 Built with ❤️ by **Sushmoy**
+
 
