@@ -5,6 +5,7 @@ This project supports a **Demo Mode** so it works without an API key, and can be
 
 ---
 
+
 ## 🚀 Features
 - Search weather by **city name**
 - Shows temperature, "feels like", humidity, wind, sunrise, and an icon
@@ -27,6 +28,18 @@ This project supports a **Demo Mode** so it works without an API key, and can be
 
 ---
 
+👨‍💻 Built By
+
+Sushmoy (BinaryBar) 🚀
+
+📧 [paulsushmoy575@gmail.com](mailto:paulsushmoy575@gmail.com) 
+
+🔗 [GitHub Profile](https://github.com/BinaryBar)
+
+---
+
+
+🚀 Built with ❤️ by **Sushmoy**
 
 
 
