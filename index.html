@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Weather App — Built by Sushmoy</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Simple Weather App (OpenWeatherMap) — Built by Sushmoy (BinaryBar)" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>🌤 Weather App</h1>
+    <p class="byline">Built by Sushmoy (BinaryBar)</p>
+  </header>
+
+  <main class="container">
+    <section class="search-card card">
+      <div class="row">
+        <input id="cityInput" type="text" placeholder="Enter city (e.g., Dhaka, London)" />
+        <button id="searchBtn">Check</button>
+      </div>
+      <div class="row small">
+        <label><input id="demoMode" type="checkbox" checked /> Demo Mode (no API key)</label>
+        <label class="right">Unit:
+          <select id="unitSelect">
+            <option value="metric">°C</option>
+            <option value="imperial">°F</option>
+          </select>
+        </label>
+      </div>
+      <div id="msg" class="muted"></div>
+    </section>
+
+    <section id="result" class="card result-card hidden">
+      <div class="result-top">
+        <div>
+          <h2 id="place">City, Country</h2>
+          <div id="desc" class="muted">Condition</div>
+        </div>
+        <div class="temp-block">
+          <div id="temp" class="temp">0°</div>
+          <img id="icon" src="" alt="" />
+        </div>
+      </div>
+
+      <div class="grid">
+        <div class="stat"><strong>Feels</strong><div id="feels">0°</div></div>
+        <div class="stat"><strong>Humidity</strong><div id="hum">0%</div></div>
+        <div class="stat"><strong>Wind</strong><div id="wind">0 m/s</div></div>
+        <div class="stat"><strong>Sunrise</strong><div id="sunrise">--:--</div></div>
+      </div>
+
+      <div class="footer-row">
+        <small class="muted">Data source: OpenWeatherMap (Demo Mode if unchecked).</small>
+      </div>
+    </section>
+
+    <div id="loader" class="card hidden">Loading…</div>
+  </main>
+
+  <footer class="footer">
+    © 2025 • Built with ❤️ by <strong>Sushmoy</strong> (BinaryBar)
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
