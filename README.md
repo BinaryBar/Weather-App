@@ -16,9 +16,27 @@ This project supports a **Demo Mode** so it works without an API key, and can be
 
 ---
 
-## 🛠 Tech
-- HTML, CSS, JavaScript (Vanilla)
-- OpenWeatherMap (optional for live mode)
+
+## 🖥️ Tech Stack
+- **HTML** – Structure  
+- **CSS** – Styling  
+- **JavaScript** (Vanilla) – App logic  
+- OpenWeatherMap (optional for live mode) 
+
+
+---
+
+
+## 🌐 Live Demo
+👉 [Click here to try the app](https://binarybar.github.io/Personal-Budget-Analyzer/) 
+
+ 
+---
+
+
+## 📸 Screenshot
+![App Screenshot](https://github.com/BinaryBar/Personal-Budget-Analyzer/blob/b57f82c8f48671e672848abc8bc1af768432d008/Screenshot.png)  
+
 
 ---
 
@@ -40,8 +58,4 @@ Sushmoy (BinaryBar) 🚀
 
 
 🚀 Built with ❤️ by **Sushmoy**
-
-
-
-
 
