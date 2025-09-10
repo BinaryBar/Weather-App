@@ -35,7 +35,7 @@ This project supports a **Demo Mode** so it works without an API key, and can be
 
 
 ## 📸 Screenshot
-![App Screenshot](https://github.com/BinaryBar/Personal-Budget-Analyzer/blob/b57f82c8f48671e672848abc8bc1af768432d008/Screenshot.png)  
+![App Screenshot](https://github.com/BinaryBar/Weather-App/blob/9cb165b50b01e344031f660ac06441c731106bb2/Screenshot.png)  
 
 
 ---
@@ -58,5 +58,6 @@ Sushmoy (BinaryBar) 🚀
 
 
 🚀 Built with ❤️ by **Sushmoy**
+
 
 
